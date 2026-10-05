@@ -1,0 +1,6 @@
+/kernel_x3/out/
+/kernel_x3/out_stock/
+*.tmp
+*.swp
+.DS_Store
+/kernel_x3/KernelSU.git-bak/
